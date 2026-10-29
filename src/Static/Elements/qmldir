@@ -1,0 +1,4 @@
+module Elements
+FloatingWindow 1.0 FloatingWindow.qml
+SidebarButton 1.0 SidebarButton.qml
+TitleBar 1.0 TitleBar.qml

@@ -1,0 +1,4 @@
+module Pages
+Telemetry 1.0 Telemetry.qml
+Manipulator 1.0 Manipulator.qml
+Chasis 1.0 Chasis.qml

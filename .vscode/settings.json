@@ -17,5 +17,8 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.tabCompletion": "on",
   "basedpyright.analysis.autoImportCompletions": true,
-  "basedpyright.importStrategy": "useBundled"
+  "basedpyright.importStrategy": "useBundled",
+  "qt-qml.qmlls.additionalImportPaths": [
+    "${workspaceFolder}/.venv/lib/python3.14/site-packages/PySide6/Qt/qml"
+  ]
 }
